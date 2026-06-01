@@ -1,7 +1,5 @@
 package Week1.Day1;
 
-import java.util.*;
-
 public class BuyAndSellStock {
 
     public static int maxProfit(int[] prices) {
